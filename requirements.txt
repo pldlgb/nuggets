@@ -1,0 +1,7 @@
+accelerate==0.18.0
+bitsandbytes==0.38.1
+torch==2.0.0
+# transformers==4.28.1
+datasets
+sentencepiece
+scikit-learn

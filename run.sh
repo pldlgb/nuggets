@@ -1,0 +1,1 @@
+python instruction_main.py --start 0 --pace 7000 --model_size 13b
